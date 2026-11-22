@@ -1,0 +1,10 @@
+Table_Number,Table_File
+1,age_fairness_CI.csv
+2,existing_result_inventory.csv
+3,final_model_comparison.csv
+4,intersectional_fairness_CI.csv
+5,paired_bootstrap_comparisons.csv
+6,scalability_comparison.csv
+7,sex_fairness_CI.csv
+8,survey_weighted_metrics.csv
+9,temporal_validation.csv

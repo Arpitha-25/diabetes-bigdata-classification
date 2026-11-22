@@ -1,0 +1,12 @@
+Figure_Number,Figure_File
+1,01_model_auc_comparison.png
+2,02_classification_metrics.png
+3,03_survey_weighted_performance.png
+4,04_age_wise_fairness.png
+5,05_sex_wise_fairness.png
+6,06_temporal_validation.png
+7,08_shap_summary.png
+8,09_shap_bmi_dependence.png
+9,10_shap_age_group_distribution.png
+10,11_corrected_grouped_shap.png
+11,hybrid_calibration_curve.png
